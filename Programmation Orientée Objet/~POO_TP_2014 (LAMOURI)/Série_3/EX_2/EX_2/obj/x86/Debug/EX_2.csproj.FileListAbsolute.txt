@@ -1,0 +1,5 @@
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_3\EX_2\EX_2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_3\EX_2\EX_2\bin\Debug\EX_2.exe
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_3\EX_2\EX_2\bin\Debug\EX_2.pdb
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_3\EX_2\EX_2\obj\x86\Debug\EX_2.exe
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_3\EX_2\EX_2\obj\x86\Debug\EX_2.pdb

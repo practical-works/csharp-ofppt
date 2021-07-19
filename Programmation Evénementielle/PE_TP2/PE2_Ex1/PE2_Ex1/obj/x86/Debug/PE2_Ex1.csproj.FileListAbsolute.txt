@@ -1,0 +1,8 @@
+C:\Users\Student\Desktop\PE2_Ex1\PE2_Ex1\obj\x86\Debug\PE2_Ex1.Form_main.resources
+C:\Users\Student\Desktop\PE2_Ex1\PE2_Ex1\obj\x86\Debug\PE2_Ex1.Properties.Resources.resources
+C:\Users\Student\Desktop\PE2_Ex1\PE2_Ex1\obj\x86\Debug\PE2_Ex1.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\PE2_Ex1\PE2_Ex1\bin\Debug\PE2_Ex1.exe
+C:\Users\Student\Desktop\PE2_Ex1\PE2_Ex1\bin\Debug\PE2_Ex1.pdb
+C:\Users\Student\Desktop\PE2_Ex1\PE2_Ex1\obj\x86\Debug\PE2_Ex1.exe
+C:\Users\Student\Desktop\PE2_Ex1\PE2_Ex1\obj\x86\Debug\PE2_Ex1.pdb
+C:\Users\Student\Desktop\PE2_Ex1\PE2_Ex1\obj\x86\Debug\PE2_Ex1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Student\Desktop\PE_EFM_2015\PE_EFM_2015\bin\Debug\PE_EFM_2015.exe
+C:\Users\Student\Desktop\PE_EFM_2015\PE_EFM_2015\bin\Debug\PE_EFM_2015.pdb
+C:\Users\Student\Desktop\PE_EFM_2015\PE_EFM_2015\obj\x86\Debug\PE_EFM_2015.Properties.Resources.resources
+C:\Users\Student\Desktop\PE_EFM_2015\PE_EFM_2015\obj\x86\Debug\PE_EFM_2015.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\PE_EFM_2015\PE_EFM_2015\obj\x86\Debug\PE_EFM_2015.exe
+C:\Users\Student\Desktop\PE_EFM_2015\PE_EFM_2015\obj\x86\Debug\PE_EFM_2015.pdb
+C:\Users\Student\Desktop\PE_EFM_2015\PE_EFM_2015\obj\x86\Debug\PE_EFM_2015.Form_GArticles.resources
+C:\Users\Student\Desktop\PE_EFM_2015\PE_EFM_2015\obj\x86\Debug\PE_EFM_2015.csprojResolveAssemblyReference.cache

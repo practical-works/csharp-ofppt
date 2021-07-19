@@ -1,0 +1,16 @@
+C:\Users\Student\Desktop\PE_Ex11\PE_Ex11\bin\Debug\PE_Ex11.exe
+C:\Users\Student\Desktop\PE_Ex11\PE_Ex11\bin\Debug\PE_Ex11.pdb
+C:\Users\Student\Desktop\PE_Ex11\PE_Ex11\obj\x86\Debug\PE_Ex11.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\PE_Ex11\PE_Ex11\obj\x86\Debug\PE_Ex11.Form1.resources
+C:\Users\Student\Desktop\PE_Ex11\PE_Ex11\obj\x86\Debug\PE_Ex11.Properties.Resources.resources
+C:\Users\Student\Desktop\PE_Ex11\PE_Ex11\obj\x86\Debug\PE_Ex11.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\PE_Ex11\PE_Ex11\obj\x86\Debug\PE_Ex11.exe
+C:\Users\Student\Desktop\PE_Ex11\PE_Ex11\obj\x86\Debug\PE_Ex11.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\PE_Ex11\PE_Ex11\obj\x86\Debug\PE_Ex11.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\PE_Ex11\PE_Ex11\obj\x86\Debug\PE_Ex11.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\PE_Ex11\PE_Ex11\bin\Debug\PE_Ex11.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\PE_Ex11\PE_Ex11\bin\Debug\PE_Ex11.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\PE_Ex11\PE_Ex11\obj\x86\Debug\PE_Ex11.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\PE_Ex11\PE_Ex11\obj\x86\Debug\PE_Ex11.Form1.resources
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\PE_Ex11\PE_Ex11\obj\x86\Debug\PE_Ex11.Properties.Resources.resources
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\PE_Ex11\PE_Ex11\obj\x86\Debug\PE_Ex11.csproj.GenerateResource.Cache

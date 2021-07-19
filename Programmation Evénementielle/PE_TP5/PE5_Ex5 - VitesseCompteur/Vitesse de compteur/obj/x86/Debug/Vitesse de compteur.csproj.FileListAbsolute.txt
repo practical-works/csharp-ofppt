@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\Vitesse de compteur\Vitesse de compteur\bin\Debug\Vitesse de compteur.exe
+C:\Users\Student\Desktop\Vitesse de compteur\Vitesse de compteur\bin\Debug\Vitesse de compteur.pdb
+C:\Users\Student\Desktop\Vitesse de compteur\Vitesse de compteur\obj\x86\Debug\Vitesse de compteur.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Vitesse de compteur\Vitesse de compteur\obj\x86\Debug\Vitesse_de_compteur.Form1.resources
+C:\Users\Student\Desktop\Vitesse de compteur\Vitesse de compteur\obj\x86\Debug\Vitesse_de_compteur.Properties.Resources.resources
+C:\Users\Student\Desktop\Vitesse de compteur\Vitesse de compteur\obj\x86\Debug\Vitesse de compteur.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Vitesse de compteur\Vitesse de compteur\obj\x86\Debug\Vitesse de compteur.exe
+C:\Users\Student\Desktop\Vitesse de compteur\Vitesse de compteur\obj\x86\Debug\Vitesse de compteur.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD5_PE_Works\PE5_Ex5 - Vitesse de compteur\Vitesse de compteur\obj\x86\Debug\Vitesse de compteur.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD5_PE_Works\PE5_Ex5 - Vitesse de compteur\Vitesse de compteur\obj\x86\Debug\Vitesse de compteur.pdb

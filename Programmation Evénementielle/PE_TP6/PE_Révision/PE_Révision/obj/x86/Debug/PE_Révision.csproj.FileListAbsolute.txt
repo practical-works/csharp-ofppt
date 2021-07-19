@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\PE_Révision\PE_Révision\bin\Debug\PE_Révision.exe
+C:\Users\Student\Desktop\PE_Révision\PE_Révision\bin\Debug\PE_Révision.pdb
+C:\Users\Student\Desktop\PE_Révision\PE_Révision\obj\x86\Debug\PE_Révision.Properties.Resources.resources
+C:\Users\Student\Desktop\PE_Révision\PE_Révision\obj\x86\Debug\PE_Révision.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\PE_Révision\PE_Révision\obj\x86\Debug\PE_Révision.exe
+C:\Users\Student\Desktop\PE_Révision\PE_Révision\obj\x86\Debug\PE_Révision.pdb
+C:\Users\Student\Desktop\PE_Révision\PE_Révision\obj\x86\Debug\PE_Révision.Form1.resources

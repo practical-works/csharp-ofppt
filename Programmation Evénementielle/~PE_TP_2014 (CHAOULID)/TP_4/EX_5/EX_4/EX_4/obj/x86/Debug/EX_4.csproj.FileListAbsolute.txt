@@ -1,0 +1,20 @@
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_4\EX_4\bin\Debug\EX_4.exe
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_4\EX_4\bin\Debug\EX_4.pdb
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_4\EX_4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_4\EX_4\obj\x86\Debug\EX_4.Form1.resources
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_4\EX_4\obj\x86\Debug\EX_4.Properties.Resources.resources
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_4\EX_4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_4\EX_4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_4\EX_4\obj\x86\Debug\EX_4.exe
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_4\EX_4\obj\x86\Debug\EX_4.pdb
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_4\EX_4\EX_4\obj\x86\Debug\EX_4.exe
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_4\EX_4\EX_4\obj\x86\Debug\EX_4.pdb
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_4\EX_5\EX_4\EX_4\obj\x86\Debug\EX_4.exe
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_4\EX_5\EX_4\EX_4\obj\x86\Debug\EX_4.pdb
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_4\EX_5\EX_4\EX_4\bin\Debug\EX_4.exe
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_4\EX_5\EX_4\EX_4\bin\Debug\EX_4.pdb
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_4\EX_5\EX_4\EX_4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_4\EX_5\EX_4\EX_4\obj\x86\Debug\EX_4.Form1.resources
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_4\EX_5\EX_4\EX_4\obj\x86\Debug\EX_4.Properties.Resources.resources
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_4\EX_5\EX_4\EX_4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_4\EX_5\EX_4\EX_4\obj\x86\Debug\GenerateResource.write.1.tlog

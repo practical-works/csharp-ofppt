@@ -1,0 +1,16 @@
+C:\Users\Student\Desktop\Pe_Ex13\Pe_Ex13\bin\Debug\Pe_Ex13.exe
+C:\Users\Student\Desktop\Pe_Ex13\Pe_Ex13\bin\Debug\Pe_Ex13.pdb
+C:\Users\Student\Desktop\Pe_Ex13\Pe_Ex13\obj\x86\Debug\Pe_Ex13.Form_mechant.resources
+C:\Users\Student\Desktop\Pe_Ex13\Pe_Ex13\obj\x86\Debug\Pe_Ex13.Properties.Resources.resources
+C:\Users\Student\Desktop\Pe_Ex13\Pe_Ex13\obj\x86\Debug\Pe_Ex13.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Pe_Ex13\Pe_Ex13\obj\x86\Debug\Pe_Ex13.exe
+C:\Users\Student\Desktop\Pe_Ex13\Pe_Ex13\obj\x86\Debug\Pe_Ex13.pdb
+C:\Users\Student\Desktop\Pe_Ex13\Pe_Ex13\obj\x86\Debug\Pe_Ex13.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\Pe_Ex13\Pe_Ex13\obj\x86\Debug\Pe_Ex13.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\Pe_Ex13\Pe_Ex13\obj\x86\Debug\Pe_Ex13.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\Pe_Ex13\Pe_Ex13\bin\Debug\Pe_Ex13.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\Pe_Ex13\Pe_Ex13\bin\Debug\Pe_Ex13.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\Pe_Ex13\Pe_Ex13\obj\x86\Debug\Pe_Ex13.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\Pe_Ex13\Pe_Ex13\obj\x86\Debug\Pe_Ex13.Form_mechant.resources
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\Pe_Ex13\Pe_Ex13\obj\x86\Debug\Pe_Ex13.Properties.Resources.resources
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\Pe_Ex13\Pe_Ex13\obj\x86\Debug\Pe_Ex13.csproj.GenerateResource.Cache

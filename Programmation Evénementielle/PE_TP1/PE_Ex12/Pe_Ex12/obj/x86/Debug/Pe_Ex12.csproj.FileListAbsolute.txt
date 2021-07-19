@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\Pe_Ex12\Pe_Ex12\bin\Debug\Pe_Ex12.exe
+C:\Users\Student\Desktop\Pe_Ex12\Pe_Ex12\bin\Debug\Pe_Ex12.pdb
+C:\Users\Student\Desktop\Pe_Ex12\Pe_Ex12\obj\x86\Debug\Pe_Ex12.Properties.Resources.resources
+C:\Users\Student\Desktop\Pe_Ex12\Pe_Ex12\obj\x86\Debug\Pe_Ex12.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Pe_Ex12\Pe_Ex12\obj\x86\Debug\Pe_Ex12.exe
+C:\Users\Student\Desktop\Pe_Ex12\Pe_Ex12\obj\x86\Debug\Pe_Ex12.pdb
+C:\Users\Student\Desktop\Pe_Ex12\Pe_Ex12\obj\x86\Debug\Pe_Ex12.Form_table.resources
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\Pe_Ex12\Pe_Ex12\obj\x86\Debug\Pe_Ex12.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\Pe_Ex12\Pe_Ex12\obj\x86\Debug\Pe_Ex12.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\Pe_Ex12\Pe_Ex12\bin\Debug\Pe_Ex12.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\Pe_Ex12\Pe_Ex12\bin\Debug\Pe_Ex12.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\Pe_Ex12\Pe_Ex12\obj\x86\Debug\Pe_Ex12.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\Pe_Ex12\Pe_Ex12\obj\x86\Debug\Pe_Ex12.Form_table.resources
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\Pe_Ex12\Pe_Ex12\obj\x86\Debug\Pe_Ex12.Properties.Resources.resources
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\Pe_Ex12\Pe_Ex12\obj\x86\Debug\Pe_Ex12.csproj.GenerateResource.Cache

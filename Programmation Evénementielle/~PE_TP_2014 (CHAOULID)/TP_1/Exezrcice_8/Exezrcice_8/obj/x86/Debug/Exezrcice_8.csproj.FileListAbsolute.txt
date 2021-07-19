@@ -1,0 +1,9 @@
+C:\Users\youssef\Desktop\programmation evenementielle\Exezrcice_8\Exezrcice_8\bin\Debug\Exezrcice_8.exe
+C:\Users\youssef\Desktop\programmation evenementielle\Exezrcice_8\Exezrcice_8\bin\Debug\Exezrcice_8.pdb
+C:\Users\youssef\Desktop\programmation evenementielle\Exezrcice_8\Exezrcice_8\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\youssef\Desktop\programmation evenementielle\Exezrcice_8\Exezrcice_8\obj\x86\Debug\Exezrcice_8.Form1.resources
+C:\Users\youssef\Desktop\programmation evenementielle\Exezrcice_8\Exezrcice_8\obj\x86\Debug\Exezrcice_8.Properties.Resources.resources
+C:\Users\youssef\Desktop\programmation evenementielle\Exezrcice_8\Exezrcice_8\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\youssef\Desktop\programmation evenementielle\Exezrcice_8\Exezrcice_8\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\youssef\Desktop\programmation evenementielle\Exezrcice_8\Exezrcice_8\obj\x86\Debug\Exezrcice_8.exe
+C:\Users\youssef\Desktop\programmation evenementielle\Exezrcice_8\Exezrcice_8\obj\x86\Debug\Exezrcice_8.pdb

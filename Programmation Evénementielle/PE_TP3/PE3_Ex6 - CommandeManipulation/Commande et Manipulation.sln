@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commande et Manipulation", "Commande et Manipulation\Commande et Manipulation.csproj", "{1D5759A2-0C6C-4253-BF04-3CA2B0F46D57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D5759A2-0C6C-4253-BF04-3CA2B0F46D57}.Debug|x86.ActiveCfg = Debug|x86
+		{1D5759A2-0C6C-4253-BF04-3CA2B0F46D57}.Debug|x86.Build.0 = Debug|x86
+		{1D5759A2-0C6C-4253-BF04-3CA2B0F46D57}.Release|x86.ActiveCfg = Release|x86
+		{1D5759A2-0C6C-4253-BF04-3CA2B0F46D57}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

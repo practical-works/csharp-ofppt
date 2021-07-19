@@ -1,0 +1,18 @@
+C:\Users\youssef\Desktop\programmation evenementielle\TP_3\Ex_9\Ex_9\bin\Debug\Ex_9.exe
+C:\Users\youssef\Desktop\programmation evenementielle\TP_3\Ex_9\Ex_9\bin\Debug\Ex_9.pdb
+C:\Users\youssef\Desktop\programmation evenementielle\TP_3\Ex_9\Ex_9\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\youssef\Desktop\programmation evenementielle\TP_3\Ex_9\Ex_9\obj\x86\Debug\Ex_9.Form1.resources
+C:\Users\youssef\Desktop\programmation evenementielle\TP_3\Ex_9\Ex_9\obj\x86\Debug\Ex_9.Properties.Resources.resources
+C:\Users\youssef\Desktop\programmation evenementielle\TP_3\Ex_9\Ex_9\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\youssef\Desktop\programmation evenementielle\TP_3\Ex_9\Ex_9\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\youssef\Desktop\programmation evenementielle\TP_3\Ex_9\Ex_9\obj\x86\Debug\Ex_9.exe
+C:\Users\youssef\Desktop\programmation evenementielle\TP_3\Ex_9\Ex_9\obj\x86\Debug\Ex_9.pdb
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_3\Ex_9\Ex_9\obj\x86\Debug\Ex_9.exe
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_3\Ex_9\Ex_9\obj\x86\Debug\Ex_9.pdb
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_3\Ex_9\Ex_9\bin\Debug\Ex_9.exe
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_3\Ex_9\Ex_9\bin\Debug\Ex_9.pdb
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_3\Ex_9\Ex_9\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_3\Ex_9\Ex_9\obj\x86\Debug\Ex_9.Form1.resources
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_3\Ex_9\Ex_9\obj\x86\Debug\Ex_9.Properties.Resources.resources
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_3\Ex_9\Ex_9\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_3\Ex_9\Ex_9\obj\x86\Debug\GenerateResource.write.1.tlog

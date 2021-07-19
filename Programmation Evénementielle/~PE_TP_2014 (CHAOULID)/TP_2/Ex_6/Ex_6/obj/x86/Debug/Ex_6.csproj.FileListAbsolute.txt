@@ -1,0 +1,20 @@
+C:\Users\youssef\Desktop\programmation evenementielle\Ex_6\Ex_6\bin\Debug\Ex_6.exe
+C:\Users\youssef\Desktop\programmation evenementielle\Ex_6\Ex_6\bin\Debug\Ex_6.pdb
+C:\Users\youssef\Desktop\programmation evenementielle\Ex_6\Ex_6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\youssef\Desktop\programmation evenementielle\Ex_6\Ex_6\obj\x86\Debug\Ex_6.Form1.resources
+C:\Users\youssef\Desktop\programmation evenementielle\Ex_6\Ex_6\obj\x86\Debug\Ex_6.Properties.Resources.resources
+C:\Users\youssef\Desktop\programmation evenementielle\Ex_6\Ex_6\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\youssef\Desktop\programmation evenementielle\Ex_6\Ex_6\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\youssef\Desktop\programmation evenementielle\Ex_6\Ex_6\obj\x86\Debug\Ex_6.exe
+C:\Users\youssef\Desktop\programmation evenementielle\Ex_6\Ex_6\obj\x86\Debug\Ex_6.pdb
+C:\Users\youssef\Desktop\programmation evenementielle\TP_2\Ex_6\Ex_6\obj\x86\Debug\Ex_6.exe
+C:\Users\youssef\Desktop\programmation evenementielle\TP_2\Ex_6\Ex_6\obj\x86\Debug\Ex_6.pdb
+C:\Users\youssef\Desktop\programmation evenementielle\TP_2\Ex_6\Ex_6\bin\Debug\Ex_6.exe
+C:\Users\youssef\Desktop\programmation evenementielle\TP_2\Ex_6\Ex_6\bin\Debug\Ex_6.pdb
+C:\Users\youssef\Desktop\programmation evenementielle\TP_2\Ex_6\Ex_6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\youssef\Desktop\programmation evenementielle\TP_2\Ex_6\Ex_6\obj\x86\Debug\Ex_6.Form1.resources
+C:\Users\youssef\Desktop\programmation evenementielle\TP_2\Ex_6\Ex_6\obj\x86\Debug\Ex_6.Properties.Resources.resources
+C:\Users\youssef\Desktop\programmation evenementielle\TP_2\Ex_6\Ex_6\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\youssef\Desktop\programmation evenementielle\TP_2\Ex_6\Ex_6\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_2\Ex_6\Ex_6\obj\x86\Debug\Ex_6.exe
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_2\Ex_6\Ex_6\obj\x86\Debug\Ex_6.pdb

@@ -1,0 +1,12 @@
+C:\Users\Student\Desktop\Menu Repas\Menu Repas\bin\Debug\Menu Repas.exe
+C:\Users\Student\Desktop\Menu Repas\Menu Repas\bin\Debug\Menu Repas.pdb
+C:\Users\Student\Desktop\Menu Repas\Menu Repas\obj\x86\Debug\Menu_Repas.Properties.Resources.resources
+C:\Users\Student\Desktop\Menu Repas\Menu Repas\obj\x86\Debug\Menu Repas.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Menu Repas\Menu Repas\obj\x86\Debug\Menu Repas.exe
+C:\Users\Student\Desktop\Menu Repas\Menu Repas\obj\x86\Debug\Menu Repas.pdb
+C:\Users\Student\Desktop\Menu Repas\Menu Repas\obj\x86\Debug\Menu_Repas.Form_main.resources
+C:\Users\Student\Desktop\Menu Repas\Menu Repas\obj\x86\Debug\Menu Repas.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD3_PE_Works\Menu Repas\Menu Repas\obj\x86\Debug\Menu Repas.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD3_PE_Works\Menu Repas\Menu Repas\obj\x86\Debug\Menu Repas.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD3_PE_Works\PE3_Ex4 - Menu Repas\Menu Repas\obj\x86\Debug\Menu Repas.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD3_PE_Works\PE3_Ex4 - Menu Repas\Menu Repas\obj\x86\Debug\Menu Repas.pdb

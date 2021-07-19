@@ -1,0 +1,8 @@
+C:\Users\Student\Desktop\GestionEntités\GestionEntités\bin\Debug\GestionEntités.exe
+C:\Users\Student\Desktop\GestionEntités\GestionEntités\bin\Debug\GestionEntités.pdb
+C:\Users\Student\Desktop\GestionEntités\GestionEntités\obj\x86\Debug\GestionEntités.FormMain.resources
+C:\Users\Student\Desktop\GestionEntités\GestionEntités\obj\x86\Debug\GestionEntités.Properties.Resources.resources
+C:\Users\Student\Desktop\GestionEntités\GestionEntités\obj\x86\Debug\GestionEntités.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\GestionEntités\GestionEntités\obj\x86\Debug\GestionEntités.exe
+C:\Users\Student\Desktop\GestionEntités\GestionEntités\obj\x86\Debug\GestionEntités.pdb
+C:\Users\Student\Desktop\GestionEntités\GestionEntités\obj\x86\Debug\GestionEntités.FormSaisie.resources

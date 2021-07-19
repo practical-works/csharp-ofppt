@@ -1,0 +1,16 @@
+C:\Users\Student\Desktop\PE5_Ex6 - Lampes\PE5_Ex6 - Lampes\bin\Debug\PE5_Ex6 - Lampes.exe
+C:\Users\Student\Desktop\PE5_Ex6 - Lampes\PE5_Ex6 - Lampes\bin\Debug\PE5_Ex6 - Lampes.pdb
+C:\Users\Student\Desktop\PE5_Ex6 - Lampes\PE5_Ex6 - Lampes\obj\x86\Debug\Lampes.Properties.Resources.resources
+C:\Users\Student\Desktop\PE5_Ex6 - Lampes\PE5_Ex6 - Lampes\obj\x86\Debug\PE5_Ex6 - Lampes.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\PE5_Ex6 - Lampes\PE5_Ex6 - Lampes\obj\x86\Debug\PE5_Ex6 - Lampes.exe
+C:\Users\Student\Desktop\PE5_Ex6 - Lampes\PE5_Ex6 - Lampes\obj\x86\Debug\PE5_Ex6 - Lampes.pdb
+C:\Users\Student\Desktop\PE5_Ex6 - Lampes\PE5_Ex6 - Lampes\obj\x86\Debug\Lampes.Form1.resources
+C:\Users\Student\Desktop\PE5_Ex6 - Lampes\PE5_Ex6 - Lampes\obj\x86\Debug\PE5_Ex6 - Lampes.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD5_PE_Works\PE5_Ex6 - Lampes\PE5_Ex6 - Lampes\obj\x86\Debug\PE5_Ex6 - Lampes.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD5_PE_Works\PE5_Ex6 - Lampes\PE5_Ex6 - Lampes\obj\x86\Debug\PE5_Ex6 - Lampes.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD5_PE_Works\PE5_Ex6 - Lampes\PE5_Ex6 - Lampes\bin\Debug\PE5_Ex6 - Lampes.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD5_PE_Works\PE5_Ex6 - Lampes\PE5_Ex6 - Lampes\bin\Debug\PE5_Ex6 - Lampes.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD5_PE_Works\PE5_Ex6 - Lampes\PE5_Ex6 - Lampes\obj\x86\Debug\PE5_Ex6 - Lampes.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD5_PE_Works\PE5_Ex6 - Lampes\PE5_Ex6 - Lampes\obj\x86\Debug\Lampes.Form1.resources
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD5_PE_Works\PE5_Ex6 - Lampes\PE5_Ex6 - Lampes\obj\x86\Debug\Lampes.Properties.Resources.resources
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD5_PE_Works\PE5_Ex6 - Lampes\PE5_Ex6 - Lampes\obj\x86\Debug\PE5_Ex6 - Lampes.csproj.GenerateResource.Cache

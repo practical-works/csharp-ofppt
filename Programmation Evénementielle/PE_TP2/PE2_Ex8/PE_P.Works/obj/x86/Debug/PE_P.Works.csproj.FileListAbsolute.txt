@@ -1,0 +1,21 @@
+C:\Users\Student\Desktop\PE_P.Works\PE_P.Works\bin\Debug\PE_P.Works.exe
+C:\Users\Student\Desktop\PE_P.Works\PE_P.Works\bin\Debug\PE_P.Works.pdb
+C:\Users\Student\Desktop\PE_P.Works\PE_P.Works\obj\x86\Debug\PE_P.Works.Form_achat.resources
+C:\Users\Student\Desktop\PE_P.Works\PE_P.Works\obj\x86\Debug\PE_P.Works.Properties.Resources.resources
+C:\Users\Student\Desktop\PE_P.Works\PE_P.Works\obj\x86\Debug\PE_P.Works.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\PE_P.Works\PE_P.Works\obj\x86\Debug\PE_P.Works.exe
+C:\Users\Student\Desktop\PE_P.Works\PE_P.Works\obj\x86\Debug\PE_P.Works.pdb
+C:\Users\Student\Desktop\PE_P.Works\PE_P.Works\bin\Debug\PE_P.Works.exe.config
+C:\Users\Student\Desktop\PE_P.Works\PE_P.Works\obj\x86\Debug\PE_P.Works.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\_Prix d'achat d'un ordinateur\PE_P.Works\bin\Debug\PE_P.Works.exe.config
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\_Prix d'achat d'un ordinateur\PE_P.Works\obj\x86\Debug\PE_P.Works.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\_Prix d'achat d'un ordinateur\PE_P.Works\obj\x86\Debug\PE_P.Works.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\_Prix d'achat d'un ordinateur\PE_P.Works\bin\Debug\PE_P.Works.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\_Prix d'achat d'un ordinateur\PE_P.Works\bin\Debug\PE_P.Works.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\_Prix d'achat d'un ordinateur\PE_P.Works\obj\x86\Debug\PE_P.Works.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\_Prix d'achat d'un ordinateur\PE_P.Works\obj\x86\Debug\PE_P.Works.Form_achat.resources
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\_Prix d'achat d'un ordinateur\PE_P.Works\obj\x86\Debug\PE_P.Works.Properties.Resources.resources
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\_Prix d'achat d'un ordinateur\PE_P.Works\obj\x86\Debug\PE_P.Works.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\PE2_Ex8\PE_P.Works\bin\Debug\PE_P.Works.exe.config
+C:\Users\Student\Desktop\PE2_Ex8\PE_P.Works\obj\x86\Debug\PE_P.Works.exe
+C:\Users\Student\Desktop\PE2_Ex8\PE_P.Works\obj\x86\Debug\PE_P.Works.pdb

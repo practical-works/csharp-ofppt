@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\POO5_Banque\POO5_Banque\bin\Debug\POO5_Banque.exe
+C:\Users\Student\Desktop\POO5_Banque\POO5_Banque\bin\Debug\POO5_Banque.pdb
+C:\Users\Student\Desktop\POO5_Banque\POO5_Banque\obj\x86\Debug\POO5_Banque.exe
+C:\Users\Student\Desktop\POO5_Banque\POO5_Banque\obj\x86\Debug\POO5_Banque.pdb
+C:\Users\Student\Desktop\POO5_Banque\POO5_Banque\obj\x86\Debug\POO5_Banque.csprojResolveAssemblyReference.cache

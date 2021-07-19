@@ -1,0 +1,15 @@
+C:\Users\youssef\Desktop\programmation evenementielle\Exercice__6\Exercice__6\bin\Debug\Exercice__6.exe
+C:\Users\youssef\Desktop\programmation evenementielle\Exercice__6\Exercice__6\bin\Debug\Exercice__6.pdb
+C:\Users\youssef\Desktop\programmation evenementielle\Exercice__6\Exercice__6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\youssef\Desktop\programmation evenementielle\Exercice__6\Exercice__6\obj\x86\Debug\Exercice__6.Form1.resources
+C:\Users\youssef\Desktop\programmation evenementielle\Exercice__6\Exercice__6\obj\x86\Debug\Exercice__6.Form2.resources
+C:\Users\youssef\Desktop\programmation evenementielle\Exercice__6\Exercice__6\obj\x86\Debug\Exercice__6.Form3.resources
+C:\Users\youssef\Desktop\programmation evenementielle\Exercice__6\Exercice__6\obj\x86\Debug\Exercice__6.Form4.resources
+C:\Users\youssef\Desktop\programmation evenementielle\Exercice__6\Exercice__6\obj\x86\Debug\Exercice__6.Form5.resources
+C:\Users\youssef\Desktop\programmation evenementielle\Exercice__6\Exercice__6\obj\x86\Debug\Exercice__6.Properties.Resources.resources
+C:\Users\youssef\Desktop\programmation evenementielle\Exercice__6\Exercice__6\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\youssef\Desktop\programmation evenementielle\Exercice__6\Exercice__6\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\youssef\Desktop\programmation evenementielle\Exercice__6\Exercice__6\obj\x86\Debug\Exercice__6.exe
+C:\Users\youssef\Desktop\programmation evenementielle\Exercice__6\Exercice__6\obj\x86\Debug\Exercice__6.pdb
+C:\Users\youssef\Desktop\programmation evenementielle\TP_1\Exercice__6\Exercice__6\obj\x86\Debug\Exercice__6.exe
+C:\Users\youssef\Desktop\programmation evenementielle\TP_1\Exercice__6\Exercice__6\obj\x86\Debug\Exercice__6.pdb

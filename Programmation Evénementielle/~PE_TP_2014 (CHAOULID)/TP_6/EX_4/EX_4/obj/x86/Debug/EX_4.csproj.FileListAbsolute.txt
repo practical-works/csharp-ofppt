@@ -1,0 +1,25 @@
+J:\programmation evenementielle\TP_6\EX_4\EX_4\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\programmation evenementielle\TP_6\EX_4\EX_4\obj\x86\Debug\EX_4.Form1.resources
+J:\programmation evenementielle\TP_6\EX_4\EX_4\obj\x86\Debug\EX_4.Properties.Resources.resources
+J:\programmation evenementielle\TP_6\EX_4\EX_4\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\programmation evenementielle\TP_6\EX_4\EX_4\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\programmation evenementielle\TP_6\EX_4\EX_4\bin\Debug\EX_4.exe
+J:\programmation evenementielle\TP_6\EX_4\EX_4\bin\Debug\EX_4.pdb
+J:\programmation evenementielle\TP_6\EX_4\EX_4\obj\x86\Debug\EX_4.exe
+J:\programmation evenementielle\TP_6\EX_4\EX_4\obj\x86\Debug\EX_4.pdb
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_6\EX_4\EX_4\obj\x86\Debug\EX_4.exe
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_6\EX_4\EX_4\obj\x86\Debug\EX_4.pdb
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_6\EX_4\EX_4\bin\Debug\EX_4.exe
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_6\EX_4\EX_4\bin\Debug\EX_4.pdb
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_6\EX_4\EX_4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_6\EX_4\EX_4\obj\x86\Debug\EX_4.Form1.resources
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_6\EX_4\EX_4\obj\x86\Debug\EX_4.Properties.Resources.resources
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_6\EX_4\EX_4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_6\EX_4\EX_4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\+Plus\PE_TD (CHAOULID)\TP_6\EX_4\EX_4\obj\x86\Debug\EX_4.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\+Plus\PE_TD (CHAOULID)\TP_6\EX_4\EX_4\obj\x86\Debug\EX_4.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\+Plus\PE_TD (CHAOULID)\TP_6\EX_4\EX_4\bin\Debug\EX_4.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\+Plus\PE_TD (CHAOULID)\TP_6\EX_4\EX_4\bin\Debug\EX_4.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\+Plus\PE_TD (CHAOULID)\TP_6\EX_4\EX_4\obj\x86\Debug\EX_4.Form1.resources
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\+Plus\PE_TD (CHAOULID)\TP_6\EX_4\EX_4\obj\x86\Debug\EX_4.Properties.Resources.resources
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\+Plus\PE_TD (CHAOULID)\TP_6\EX_4\EX_4\obj\x86\Debug\EX_4.csproj.GenerateResource.Cache

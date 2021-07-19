@@ -1,0 +1,4 @@
+C:\Users\Student\Desktop\POO4_GestionStock\POO4_GestionStock\bin\Debug\POO4_GestionStock.exe
+C:\Users\Student\Desktop\POO4_GestionStock\POO4_GestionStock\bin\Debug\POO4_GestionStock.pdb
+C:\Users\Student\Desktop\POO4_GestionStock\POO4_GestionStock\obj\x86\Debug\POO4_GestionStock.exe
+C:\Users\Student\Desktop\POO4_GestionStock\POO4_GestionStock\obj\x86\Debug\POO4_GestionStock.pdb

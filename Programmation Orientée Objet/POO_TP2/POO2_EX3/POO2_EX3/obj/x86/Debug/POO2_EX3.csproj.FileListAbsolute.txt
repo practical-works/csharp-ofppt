@@ -1,0 +1,8 @@
+C:\Users\Student\Desktop\POO2_EX3\POO2_EX3\bin\Debug\POO2_EX3.exe
+C:\Users\Student\Desktop\POO2_EX3\POO2_EX3\bin\Debug\POO2_EX3.pdb
+C:\Users\Student\Desktop\POO2_EX3\POO2_EX3\obj\x86\Debug\POO2_EX3.exe
+C:\Users\Student\Desktop\POO2_EX3\POO2_EX3\obj\x86\Debug\POO2_EX3.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\1. Programmation Orientée Objet (POO - Console C#)\TDs\TD2_POO_Works\POO2_EX3\POO2_EX3\obj\x86\Debug\POO2_EX3.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\1. Programmation Orientée Objet (POO - Console C#)\TDs\TD2_POO_Works\POO2_EX3\POO2_EX3\obj\x86\Debug\POO2_EX3.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\1. Programmation Orientée Objet (POO - Console C#)\TDs\TD2_POO_Works\POO2_EX3\POO2_EX3\bin\Debug\POO2_EX3.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\1. Programmation Orientée Objet (POO - Console C#)\TDs\TD2_POO_Works\POO2_EX3\POO2_EX3\bin\Debug\POO2_EX3.pdb

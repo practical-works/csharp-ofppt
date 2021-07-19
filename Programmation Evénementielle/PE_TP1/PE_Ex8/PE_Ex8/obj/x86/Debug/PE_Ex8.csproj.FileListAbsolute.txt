@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\PE_Ex8\PE_Ex8\bin\Debug\PE_Ex8.exe
+C:\Users\Student\Desktop\PE_Ex8\PE_Ex8\bin\Debug\PE_Ex8.pdb
+C:\Users\Student\Desktop\PE_Ex8\PE_Ex8\obj\x86\Debug\PE_Ex8.Properties.Resources.resources
+C:\Users\Student\Desktop\PE_Ex8\PE_Ex8\obj\x86\Debug\PE_Ex8.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\PE_Ex8\PE_Ex8\obj\x86\Debug\PE_Ex8.exe
+C:\Users\Student\Desktop\PE_Ex8\PE_Ex8\obj\x86\Debug\PE_Ex8.pdb
+C:\Users\Student\Desktop\PE_Ex8\PE_Ex8\obj\x86\Debug\PE_Ex8.Main_Form.resources

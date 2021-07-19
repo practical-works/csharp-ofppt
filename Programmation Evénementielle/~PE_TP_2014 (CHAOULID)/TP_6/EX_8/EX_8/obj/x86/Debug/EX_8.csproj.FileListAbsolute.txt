@@ -1,0 +1,20 @@
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_6\EX_8\EX_8\bin\Debug\EX_8.exe
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_6\EX_8\EX_8\bin\Debug\EX_8.pdb
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_6\EX_8\EX_8\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_6\EX_8\EX_8\obj\x86\Debug\EX_8.Form1.resources
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_6\EX_8\EX_8\obj\x86\Debug\EX_8.Properties.Resources.resources
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_6\EX_8\EX_8\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_6\EX_8\EX_8\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_6\EX_8\EX_8\obj\x86\Debug\EX_8.exe
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_6\EX_8\EX_8\obj\x86\Debug\EX_8.pdb
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_6\EX_8\EX_8\obj\x86\Debug\EX_8.Form2.resources
+D:\Dossier General\Gen\1ère année\programmation evenementielle\TP_6\EX_8\EX_8\obj\x86\Debug\EX_8.exe
+D:\Dossier General\Gen\1ère année\programmation evenementielle\TP_6\EX_8\EX_8\obj\x86\Debug\EX_8.pdb
+D:\Dossier General\Gen\1ère année\programmation evenementielle\TP_6\EX_8\EX_8\bin\Debug\EX_8.exe
+D:\Dossier General\Gen\1ère année\programmation evenementielle\TP_6\EX_8\EX_8\bin\Debug\EX_8.pdb
+D:\Dossier General\Gen\1ère année\programmation evenementielle\TP_6\EX_8\EX_8\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dossier General\Gen\1ère année\programmation evenementielle\TP_6\EX_8\EX_8\obj\x86\Debug\EX_8.Form1.resources
+D:\Dossier General\Gen\1ère année\programmation evenementielle\TP_6\EX_8\EX_8\obj\x86\Debug\EX_8.Form2.resources
+D:\Dossier General\Gen\1ère année\programmation evenementielle\TP_6\EX_8\EX_8\obj\x86\Debug\EX_8.Properties.Resources.resources
+D:\Dossier General\Gen\1ère année\programmation evenementielle\TP_6\EX_8\EX_8\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dossier General\Gen\1ère année\programmation evenementielle\TP_6\EX_8\EX_8\obj\x86\Debug\GenerateResource.write.1.tlog

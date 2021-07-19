@@ -1,0 +1,11 @@
+C:\Users\Youssef BEN KHALA\Desktop\Programmation orientée objet\Série_2\EX_5\EX_5\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programmation orientée objet\Série_2\EX_5\EX_5\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programmation orientée objet\Série_2\EX_5\EX_5\bin\Debug\EX_5.exe
+F:\Programmation orientée objet\Série_2\EX_5\EX_5\bin\Debug\EX_5.pdb
+F:\Programmation orientée objet\Série_2\EX_5\EX_5\obj\x86\Debug\EX_5.exe
+F:\Programmation orientée objet\Série_2\EX_5\EX_5\obj\x86\Debug\EX_5.pdb
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_2\EX_5\EX_5\obj\x86\Debug\EX_5.exe
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_2\EX_5\EX_5\obj\x86\Debug\EX_5.pdb
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_2\EX_5\EX_5\bin\Debug\EX_5.exe
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_2\EX_5\EX_5\bin\Debug\EX_5.pdb
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_2\EX_5\EX_5\obj\x86\Debug\ResolveAssemblyReference.cache

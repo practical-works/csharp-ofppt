@@ -1,0 +1,7 @@
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_4\Série_4\EX_2\EX_2\bin\Release\EX_2.exe
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_4\Série_4\EX_2\EX_2\bin\Release\EX_2.pdb
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_4\Série_4\EX_2\EX_2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_4\Série_4\EX_2\EX_2\obj\x86\Release\EX_2.exe
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_4\Série_4\EX_2\EX_2\obj\x86\Release\EX_2.pdb
+D:\Dossier General\Gen\1ère année\Programmation orientée objet\Série_4\Série_4\EX_2\EX_2\obj\x86\Release\EX_2.exe
+D:\Dossier General\Gen\1ère année\Programmation orientée objet\Série_4\Série_4\EX_2\EX_2\obj\x86\Release\EX_2.pdb

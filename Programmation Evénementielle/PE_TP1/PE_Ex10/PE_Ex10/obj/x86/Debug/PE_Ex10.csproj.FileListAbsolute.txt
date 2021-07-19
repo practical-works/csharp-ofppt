@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\PE_Ex10\PE_Ex10\bin\Debug\PE_Ex10.exe
+C:\Users\Student\Desktop\PE_Ex10\PE_Ex10\bin\Debug\PE_Ex10.pdb
+C:\Users\Student\Desktop\PE_Ex10\PE_Ex10\obj\x86\Debug\PE_Ex10.Properties.Resources.resources
+C:\Users\Student\Desktop\PE_Ex10\PE_Ex10\obj\x86\Debug\PE_Ex10.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\PE_Ex10\PE_Ex10\obj\x86\Debug\PE_Ex10.exe
+C:\Users\Student\Desktop\PE_Ex10\PE_Ex10\obj\x86\Debug\PE_Ex10.pdb
+C:\Users\Student\Desktop\PE_Ex10\PE_Ex10\obj\x86\Debug\PE_Ex10.Main_Form.resources
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\PE_Ex10\PE_Ex10\obj\x86\Debug\PE_Ex10.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\PE_Ex10\PE_Ex10\obj\x86\Debug\PE_Ex10.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\PE_Ex10\PE_Ex10\bin\Debug\PE_Ex10.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\PE_Ex10\PE_Ex10\bin\Debug\PE_Ex10.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\PE_Ex10\PE_Ex10\obj\x86\Debug\PE_Ex10.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\PE_Ex10\PE_Ex10\obj\x86\Debug\PE_Ex10.Main_Form.resources
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\PE_Ex10\PE_Ex10\obj\x86\Debug\PE_Ex10.Properties.Resources.resources
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\PE_Ex10\PE_Ex10\obj\x86\Debug\PE_Ex10.csproj.GenerateResource.Cache

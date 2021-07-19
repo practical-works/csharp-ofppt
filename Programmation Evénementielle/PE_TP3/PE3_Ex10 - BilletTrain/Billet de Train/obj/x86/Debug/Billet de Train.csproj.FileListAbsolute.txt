@@ -1,0 +1,11 @@
+C:\Users\Student\Desktop\Billet de Train\Billet de Train\obj\x86\Debug\Billet_de_Train.Form_main.resources
+C:\Users\Student\Desktop\Billet de Train\Billet de Train\obj\x86\Debug\Billet de Train.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Billet de Train\Billet de Train\bin\Debug\Billet de Train.exe
+C:\Users\Student\Desktop\Billet de Train\Billet de Train\bin\Debug\Billet de Train.pdb
+C:\Users\Student\Desktop\Billet de Train\Billet de Train\obj\x86\Debug\Billet_de_Train.Properties.Resources.resources
+C:\Users\Student\Desktop\Billet de Train\Billet de Train\obj\x86\Debug\Billet de Train.exe
+C:\Users\Student\Desktop\Billet de Train\Billet de Train\obj\x86\Debug\Billet de Train.pdb
+C:\Users\Student\Desktop\Billet de Train\Billet de Train\bin\Debug\Billet de Train.exe.manifest
+C:\Users\Student\Desktop\Billet de Train\Billet de Train\bin\Debug\Billet de Train.application
+C:\Users\Student\Desktop\Billet de Train\Billet de Train\obj\x86\Debug\Billet de Train.exe.manifest
+C:\Users\Student\Desktop\Billet de Train\Billet de Train\obj\x86\Debug\Billet de Train.application

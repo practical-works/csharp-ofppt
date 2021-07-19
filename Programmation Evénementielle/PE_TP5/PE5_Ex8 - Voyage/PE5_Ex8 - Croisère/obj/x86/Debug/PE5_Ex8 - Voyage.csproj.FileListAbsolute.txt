@@ -1,0 +1,16 @@
+C:\Users\Student\Desktop\PE5_Ex8 - Voyage\PE5_Ex8 - Croisère\bin\Debug\Voyage.exe
+C:\Users\Student\Desktop\PE5_Ex8 - Voyage\PE5_Ex8 - Croisère\bin\Debug\Voyage.pdb
+C:\Users\Student\Desktop\PE5_Ex8 - Voyage\PE5_Ex8 - Croisère\obj\x86\Debug\Voyage.Form_voyage.resources
+C:\Users\Student\Desktop\PE5_Ex8 - Voyage\PE5_Ex8 - Croisère\obj\x86\Debug\Voyage.Properties.Resources.resources
+C:\Users\Student\Desktop\PE5_Ex8 - Voyage\PE5_Ex8 - Croisère\obj\x86\Debug\PE5_Ex8 - Voyage.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\PE5_Ex8 - Voyage\PE5_Ex8 - Croisère\obj\x86\Debug\Voyage.exe
+C:\Users\Student\Desktop\PE5_Ex8 - Voyage\PE5_Ex8 - Croisère\obj\x86\Debug\Voyage.pdb
+C:\Users\Student\Desktop\PE5_Ex8 - Voyage\PE5_Ex8 - Croisère\obj\x86\Debug\PE5_Ex8 - Voyage.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD5_PE_Works\PE5_Ex8 - Voyage\PE5_Ex8 - Croisère\obj\x86\Debug\Voyage.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD5_PE_Works\PE5_Ex8 - Voyage\PE5_Ex8 - Croisère\obj\x86\Debug\Voyage.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD5_PE_Works\PE5_Ex8 - Voyage\PE5_Ex8 - Croisère\bin\Debug\Voyage.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD5_PE_Works\PE5_Ex8 - Voyage\PE5_Ex8 - Croisère\bin\Debug\Voyage.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD5_PE_Works\PE5_Ex8 - Voyage\PE5_Ex8 - Croisère\obj\x86\Debug\PE5_Ex8 - Voyage.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD5_PE_Works\PE5_Ex8 - Voyage\PE5_Ex8 - Croisère\obj\x86\Debug\Voyage.Form_voyage.resources
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD5_PE_Works\PE5_Ex8 - Voyage\PE5_Ex8 - Croisère\obj\x86\Debug\Voyage.Properties.Resources.resources
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD5_PE_Works\PE5_Ex8 - Voyage\PE5_Ex8 - Croisère\obj\x86\Debug\PE5_Ex8 - Voyage.csproj.GenerateResource.Cache

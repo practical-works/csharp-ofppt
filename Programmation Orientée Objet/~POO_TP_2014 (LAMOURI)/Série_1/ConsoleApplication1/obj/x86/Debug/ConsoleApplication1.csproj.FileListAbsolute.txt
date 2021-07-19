@@ -1,0 +1,9 @@
+C:\Users\youssef\Desktop\Programmation orientée objet\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\youssef\Desktop\Programmation orientée objet\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\youssef\Desktop\Programmation orientée objet\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\youssef\Desktop\Programmation orientée objet\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\youssef\Desktop\Programmation orientée objet\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\youssef\Desktop\Programmation orientée objet\TD_1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\youssef\Desktop\Programmation orientée objet\TD_1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\+Autre\Programmation orientée objet\Série_1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\+Autre\Programmation orientée objet\Série_1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,14 @@
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_ 4\EX_1\EX_1\bin\Debug\EX_1.exe
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_ 4\EX_1\EX_1\bin\Debug\EX_1.pdb
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_ 4\EX_1\EX_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_ 4\EX_1\EX_1\obj\x86\Debug\EX_1.exe
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_ 4\EX_1\EX_1\obj\x86\Debug\EX_1.pdb
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_4\EX_1\EX_1\obj\x86\Debug\EX_1.exe
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_4\EX_1\EX_1\obj\x86\Debug\EX_1.pdb
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_4\Série_4\EX_1\EX_1\obj\x86\Debug\EX_1.exe
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_4\Série_4\EX_1\EX_1\obj\x86\Debug\EX_1.pdb
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_4\Série_4\EX_1\EX_1\bin\Debug\EX_1.exe
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_4\Série_4\EX_1\EX_1\bin\Debug\EX_1.pdb
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_4\Série_4\EX_1\EX_1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dossier General\Gen\1ère année\Programmation orientée objet\Série_4\Série_4\EX_1\EX_1\obj\x86\Debug\EX_1.exe
+D:\Dossier General\Gen\1ère année\Programmation orientée objet\Série_4\Série_4\EX_1\EX_1\obj\x86\Debug\EX_1.pdb

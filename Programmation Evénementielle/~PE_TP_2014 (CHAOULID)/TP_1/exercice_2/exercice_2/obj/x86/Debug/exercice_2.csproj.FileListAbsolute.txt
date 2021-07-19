@@ -1,0 +1,20 @@
+C:\Users\youssef\Desktop\programmation evenementielle\exercice_2\exercice_2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\youssef\Desktop\programmation evenementielle\exercice_2\exercice_2\obj\x86\Debug\exercice_2.Form1.resources
+C:\Users\youssef\Desktop\programmation evenementielle\exercice_2\exercice_2\obj\x86\Debug\exercice_2.Properties.Resources.resources
+C:\Users\youssef\Desktop\programmation evenementielle\exercice_2\exercice_2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\youssef\Desktop\programmation evenementielle\exercice_2\exercice_2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\youssef\Desktop\programmation evenementielle\exercice_2\exercice_2\bin\Debug\exercice_2.exe
+C:\Users\youssef\Desktop\programmation evenementielle\exercice_2\exercice_2\bin\Debug\exercice_2.pdb
+C:\Users\youssef\Desktop\programmation evenementielle\exercice_2\exercice_2\obj\x86\Debug\exercice_2.exe
+C:\Users\youssef\Desktop\programmation evenementielle\exercice_2\exercice_2\obj\x86\Debug\exercice_2.pdb
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_1\exercice_2\exercice_2\obj\x86\Debug\exercice_2.exe
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_1\exercice_2\exercice_2\obj\x86\Debug\exercice_2.pdb
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_1\exercice_2\exercice_2\bin\Debug\exercice_2.exe
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_1\exercice_2\exercice_2\bin\Debug\exercice_2.pdb
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_1\exercice_2\exercice_2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_1\exercice_2\exercice_2\obj\x86\Debug\exercice_2.Form1.resources
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_1\exercice_2\exercice_2\obj\x86\Debug\exercice_2.Properties.Resources.resources
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_1\exercice_2\exercice_2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_1\exercice_2\exercice_2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\+Plus\programmation événementielle\TP_1\exercice_2\exercice_2\obj\x86\Debug\exercice_2.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\+Plus\programmation événementielle\TP_1\exercice_2\exercice_2\obj\x86\Debug\exercice_2.pdb

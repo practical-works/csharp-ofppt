@@ -1,0 +1,15 @@
+C:\Users\Youssef BEN KHALA\Desktop\Programmation orientée objet\Série_2\EX_1\EX_1\bin\Debug\EX_1.exe
+C:\Users\Youssef BEN KHALA\Desktop\Programmation orientée objet\Série_2\EX_1\EX_1\bin\Debug\EX_1.pdb
+C:\Users\Youssef BEN KHALA\Desktop\Programmation orientée objet\Série_2\EX_1\EX_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Youssef BEN KHALA\Desktop\Programmation orientée objet\Série_2\EX_1\EX_1\obj\x86\Debug\EX_1.exe
+C:\Users\Youssef BEN KHALA\Desktop\Programmation orientée objet\Série_2\EX_1\EX_1\obj\x86\Debug\EX_1.pdb
+F:\Programmation orientée objet\Série_2\EX_1\EX_1\obj\x86\Debug\EX_1.exe
+F:\Programmation orientée objet\Série_2\EX_1\EX_1\obj\x86\Debug\EX_1.pdb
+F:\Programmation orientée objet\Série_2\EX_1\EX_1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programmation orientée objet\Série_2\EX_1\EX_1\bin\Debug\EX_1.exe
+F:\Programmation orientée objet\Série_2\EX_1\EX_1\bin\Debug\EX_1.pdb
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_2\EX_1\EX_1\obj\x86\Debug\EX_1.exe
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_2\EX_1\EX_1\obj\x86\Debug\EX_1.pdb
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_2\EX_1\EX_1\bin\Debug\EX_1.exe
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_2\EX_1\EX_1\bin\Debug\EX_1.pdb
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_2\EX_1\EX_1\obj\x86\Debug\ResolveAssemblyReference.cache

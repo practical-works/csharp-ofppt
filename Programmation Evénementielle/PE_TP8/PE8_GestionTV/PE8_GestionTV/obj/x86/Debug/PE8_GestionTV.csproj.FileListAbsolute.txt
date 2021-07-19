@@ -1,0 +1,24 @@
+C:\Users\Student\Desktop\PE8_GestionTV\PE8_GestionTV\bin\Debug\PE8_GestionTV.exe
+C:\Users\Student\Desktop\PE8_GestionTV\PE8_GestionTV\bin\Debug\PE8_GestionTV.pdb
+C:\Users\Student\Desktop\PE8_GestionTV\PE8_GestionTV\obj\x86\Debug\PE8_GestionTV.FormMain.resources
+C:\Users\Student\Desktop\PE8_GestionTV\PE8_GestionTV\obj\x86\Debug\PE8_GestionTV.Properties.Resources.resources
+C:\Users\Student\Desktop\PE8_GestionTV\PE8_GestionTV\obj\x86\Debug\PE8_GestionTV.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\PE8_GestionTV\PE8_GestionTV\obj\x86\Debug\PE8_GestionTV.exe
+C:\Users\Student\Desktop\PE8_GestionTV\PE8_GestionTV\obj\x86\Debug\PE8_GestionTV.pdb
+C:\Users\Student\Desktop\PE8_GestionTV\PE8_GestionTV\obj\x86\Debug\PE8_GestionTV.Consultations.FormDate.resources
+C:\Users\Student\Desktop\PE8_GestionTV\PE8_GestionTV\obj\x86\Debug\PE8_GestionTV.Consultations.FormStats.resources
+C:\Users\Student\Desktop\PE8_GestionTV\PE8_GestionTV\obj\x86\Debug\PE8_GestionTV.FormAjout.resources
+C:\Users\Student\Desktop\PE8_GestionTV\PE8_GestionTV\obj\x86\Debug\PE8_GestionTV.csprojResolveAssemblyReference.cache
+C:\Users\Student\Mes logiciels\Travaux Pratiques\PE\PE_TP8\PE8_GestionTV\PE8_GestionTV\obj\x86\Debug\PE8_GestionTV.exe
+C:\Users\Student\Mes logiciels\Travaux Pratiques\PE\PE_TP8\PE8_GestionTV\PE8_GestionTV\obj\x86\Debug\PE8_GestionTV.pdb
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\C# .NET\PE (C#)\PE_TP8\PE8_GestionTV\PE8_GestionTV\obj\x86\Debug\PE8_GestionTV.exe
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\C# .NET\PE (C#)\PE_TP8\PE8_GestionTV\PE8_GestionTV\obj\x86\Debug\PE8_GestionTV.pdb
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\C# .NET\PE (C#)\PE_TP8\PE8_GestionTV\PE8_GestionTV\bin\Debug\PE8_GestionTV.exe
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\C# .NET\PE (C#)\PE_TP8\PE8_GestionTV\PE8_GestionTV\bin\Debug\PE8_GestionTV.pdb
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\C# .NET\PE (C#)\PE_TP8\PE8_GestionTV\PE8_GestionTV\obj\x86\Debug\PE8_GestionTV.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\C# .NET\PE (C#)\PE_TP8\PE8_GestionTV\PE8_GestionTV\obj\x86\Debug\PE8_GestionTV.Consultations.FormDate.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\C# .NET\PE (C#)\PE_TP8\PE8_GestionTV\PE8_GestionTV\obj\x86\Debug\PE8_GestionTV.Consultations.FormStats.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\C# .NET\PE (C#)\PE_TP8\PE8_GestionTV\PE8_GestionTV\obj\x86\Debug\PE8_GestionTV.FormAjout.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\C# .NET\PE (C#)\PE_TP8\PE8_GestionTV\PE8_GestionTV\obj\x86\Debug\PE8_GestionTV.FormMain.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\C# .NET\PE (C#)\PE_TP8\PE8_GestionTV\PE8_GestionTV\obj\x86\Debug\PE8_GestionTV.Properties.Resources.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\C# .NET\PE (C#)\PE_TP8\PE8_GestionTV\PE8_GestionTV\obj\x86\Debug\PE8_GestionTV.csproj.GenerateResource.Cache

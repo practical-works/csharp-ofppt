@@ -1,0 +1,29 @@
+C:\Users\Student\Desktop\GestionStock\GestionStock\bin\Debug\GestionStock.exe
+C:\Users\Student\Desktop\GestionStock\GestionStock\bin\Debug\GestionStock.pdb
+C:\Users\Student\Desktop\GestionStock\GestionStock\obj\x86\Debug\GestionStock.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\GestionStock\GestionStock\obj\x86\Debug\GestionStock.FormMiseAJour.resources
+C:\Users\Student\Desktop\GestionStock\GestionStock\obj\x86\Debug\GestionStock.FormRechercheAV.resources
+C:\Users\Student\Desktop\GestionStock\GestionStock\obj\x86\Debug\GestionStock.Properties.Resources.resources
+C:\Users\Student\Desktop\GestionStock\GestionStock\obj\x86\Debug\GestionStock.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\GestionStock\GestionStock\obj\x86\Debug\GestionStock.exe
+C:\Users\Student\Desktop\GestionStock\GestionStock\obj\x86\Debug\GestionStock.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD7_PE_Works\GestionStock\GestionStock\obj\x86\Debug\GestionStock.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD7_PE_Works\GestionStock\GestionStock\obj\x86\Debug\GestionStock.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD7_PE_Works\GestionStock\GestionStock\bin\Debug\GestionStock.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD7_PE_Works\GestionStock\GestionStock\bin\Debug\GestionStock.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD7_PE_Works\GestionStock\GestionStock\obj\x86\Debug\GestionStock.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD7_PE_Works\GestionStock\GestionStock\obj\x86\Debug\GestionStock.FormMiseAJour.resources
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD7_PE_Works\GestionStock\GestionStock\obj\x86\Debug\GestionStock.FormRechercheAV.resources
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD7_PE_Works\GestionStock\GestionStock\obj\x86\Debug\GestionStock.Properties.Resources.resources
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD7_PE_Works\GestionStock\GestionStock\obj\x86\Debug\GestionStock.csproj.GenerateResource.Cache
+C:\Users\Student\Mes logiciels\@ PROGRAMS\Travaux Pratiques\PE\PE_TP7\PE7_GestionStock\GestionStock\obj\x86\Debug\GestionStock.exe
+C:\Users\Student\Mes logiciels\@ PROGRAMS\Travaux Pratiques\PE\PE_TP7\PE7_GestionStock\GestionStock\obj\x86\Debug\GestionStock.pdb
+C:\Users\Student\Mes logiciels\@ PROGRAMS\Travaux Pratiques\PE\PE_TP7\PE7_GestionStock\GestionStock\bin\Debug\GestionStock.exe
+C:\Users\Student\Mes logiciels\@ PROGRAMS\Travaux Pratiques\PE\PE_TP7\PE7_GestionStock\GestionStock\bin\Debug\GestionStock.pdb
+C:\Users\Student\Mes logiciels\@ PROGRAMS\Travaux Pratiques\PE\PE_TP7\PE7_GestionStock\GestionStock\obj\x86\Debug\GestionStock.csprojResolveAssemblyReference.cache
+C:\Users\Student\Mes logiciels\@ PROGRAMS\Travaux Pratiques\PE\PE_TP7\PE7_GestionStock\GestionStock\obj\x86\Debug\GestionStock.FormMiseAJour.resources
+C:\Users\Student\Mes logiciels\@ PROGRAMS\Travaux Pratiques\PE\PE_TP7\PE7_GestionStock\GestionStock\obj\x86\Debug\GestionStock.FormRechercheAV.resources
+C:\Users\Student\Mes logiciels\@ PROGRAMS\Travaux Pratiques\PE\PE_TP7\PE7_GestionStock\GestionStock\obj\x86\Debug\GestionStock.Properties.Resources.resources
+C:\Users\Student\Mes logiciels\@ PROGRAMS\Travaux Pratiques\PE\PE_TP7\PE7_GestionStock\GestionStock\obj\x86\Debug\GestionStock.csproj.GenerateResource.Cache
+C:\Users\Student\Mes logiciels\Travaux Pratiques\PE\PE_TP7\PE7_GestionStock\GestionStock\obj\x86\Debug\GestionStock.exe
+C:\Users\Student\Mes logiciels\Travaux Pratiques\PE\PE_TP7\PE7_GestionStock\GestionStock\obj\x86\Debug\GestionStock.pdb

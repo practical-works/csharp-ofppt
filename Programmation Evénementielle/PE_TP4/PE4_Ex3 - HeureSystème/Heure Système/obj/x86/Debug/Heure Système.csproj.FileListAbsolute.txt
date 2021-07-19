@@ -1,0 +1,8 @@
+C:\Users\Student\Desktop\Heure Système\Heure Système\bin\Debug\Heure Système.exe
+C:\Users\Student\Desktop\Heure Système\Heure Système\bin\Debug\Heure Système.pdb
+C:\Users\Student\Desktop\Heure Système\Heure Système\obj\x86\Debug\Heure_Système.Properties.Resources.resources
+C:\Users\Student\Desktop\Heure Système\Heure Système\obj\x86\Debug\Heure Système.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Heure Système\Heure Système\obj\x86\Debug\Heure Système.exe
+C:\Users\Student\Desktop\Heure Système\Heure Système\obj\x86\Debug\Heure Système.pdb
+C:\Users\Student\Desktop\Heure Système\Heure Système\obj\x86\Debug\Heure Système.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Heure Système\Heure Système\obj\x86\Debug\Heure_Système.Form_time.resources

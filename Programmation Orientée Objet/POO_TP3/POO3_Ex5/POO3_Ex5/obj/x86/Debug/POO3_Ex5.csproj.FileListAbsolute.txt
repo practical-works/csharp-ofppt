@@ -1,0 +1,4 @@
+C:\Users\Student\Desktop\POO3_Ex5\POO3_Ex5\bin\Debug\POO3_Ex5.exe
+C:\Users\Student\Desktop\POO3_Ex5\POO3_Ex5\bin\Debug\POO3_Ex5.pdb
+C:\Users\Student\Desktop\POO3_Ex5\POO3_Ex5\obj\x86\Debug\POO3_Ex5.exe
+C:\Users\Student\Desktop\POO3_Ex5\POO3_Ex5\obj\x86\Debug\POO3_Ex5.pdb

@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\Chronomètre\Chronomètre\bin\Debug\Chronomètre.exe
+C:\Users\Student\Desktop\Chronomètre\Chronomètre\bin\Debug\Chronomètre.pdb
+C:\Users\Student\Desktop\Chronomètre\Chronomètre\obj\x86\Debug\Chronomètre.Form_chrono.resources
+C:\Users\Student\Desktop\Chronomètre\Chronomètre\obj\x86\Debug\Chronomètre.Properties.Resources.resources
+C:\Users\Student\Desktop\Chronomètre\Chronomètre\obj\x86\Debug\Chronomètre.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Chronomètre\Chronomètre\obj\x86\Debug\Chronomètre.exe
+C:\Users\Student\Desktop\Chronomètre\Chronomètre\obj\x86\Debug\Chronomètre.pdb

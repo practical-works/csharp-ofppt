@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\PE_Ex3\PE_Ex3\bin\Debug\PE_Ex3.exe
+C:\Users\Student\Desktop\PE_Ex3\PE_Ex3\bin\Debug\PE_Ex3.pdb
+C:\Users\Student\Desktop\PE_Ex3\PE_Ex3\obj\x86\Debug\PE_Ex3.Form1.resources
+C:\Users\Student\Desktop\PE_Ex3\PE_Ex3\obj\x86\Debug\PE_Ex3.Properties.Resources.resources
+C:\Users\Student\Desktop\PE_Ex3\PE_Ex3\obj\x86\Debug\PE_Ex3.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\PE_Ex3\PE_Ex3\obj\x86\Debug\PE_Ex3.exe
+C:\Users\Student\Desktop\PE_Ex3\PE_Ex3\obj\x86\Debug\PE_Ex3.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\PE_Ex3\PE_Ex3\obj\x86\Debug\PE_Ex3.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\PE_Ex3\PE_Ex3\obj\x86\Debug\PE_Ex3.pdb

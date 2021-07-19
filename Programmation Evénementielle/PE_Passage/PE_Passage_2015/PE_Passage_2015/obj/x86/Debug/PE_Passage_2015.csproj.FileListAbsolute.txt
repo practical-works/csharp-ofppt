@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\PE_Passage_2015\PE_Passage_2015\bin\Debug\PE_Passage_2015.exe
+C:\Users\Student\Desktop\PE_Passage_2015\PE_Passage_2015\bin\Debug\PE_Passage_2015.pdb
+C:\Users\Student\Desktop\PE_Passage_2015\PE_Passage_2015\obj\x86\Debug\PE_Passage_2015.Form1.resources
+C:\Users\Student\Desktop\PE_Passage_2015\PE_Passage_2015\obj\x86\Debug\PE_Passage_2015.Properties.Resources.resources
+C:\Users\Student\Desktop\PE_Passage_2015\PE_Passage_2015\obj\x86\Debug\PE_Passage_2015.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\PE_Passage_2015\PE_Passage_2015\obj\x86\Debug\PE_Passage_2015.exe
+C:\Users\Student\Desktop\PE_Passage_2015\PE_Passage_2015\obj\x86\Debug\PE_Passage_2015.pdb

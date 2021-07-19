@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\PE_Ex5\PE_Ex5\bin\Debug\PE_Ex5.exe
+C:\Users\Student\Desktop\PE_Ex5\PE_Ex5\bin\Debug\PE_Ex5.pdb
+C:\Users\Student\Desktop\PE_Ex5\PE_Ex5\obj\x86\Debug\PE_Ex5.Form1.resources
+C:\Users\Student\Desktop\PE_Ex5\PE_Ex5\obj\x86\Debug\PE_Ex5.Properties.Resources.resources
+C:\Users\Student\Desktop\PE_Ex5\PE_Ex5\obj\x86\Debug\PE_Ex5.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\PE_Ex5\PE_Ex5\obj\x86\Debug\PE_Ex5.exe
+C:\Users\Student\Desktop\PE_Ex5\PE_Ex5\obj\x86\Debug\PE_Ex5.pdb

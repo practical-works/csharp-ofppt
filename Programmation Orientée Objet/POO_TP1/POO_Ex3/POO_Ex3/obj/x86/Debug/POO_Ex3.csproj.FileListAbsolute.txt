@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\POO_Ex3\POO_Ex3\bin\Debug\POO_Ex3.exe
+C:\Users\Student\Desktop\POO_Ex3\POO_Ex3\bin\Debug\POO_Ex3.pdb
+C:\Users\Student\Desktop\POO_Ex3\POO_Ex3\obj\x86\Debug\POO_Ex3.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\POO_Ex3\POO_Ex3\obj\x86\Debug\POO_Ex3.exe
+C:\Users\Student\Desktop\POO_Ex3\POO_Ex3\obj\x86\Debug\POO_Ex3.pdb

@@ -1,0 +1,4 @@
+C:\Users\Student\Desktop\POO3_Ex1_Ex2_Ex3_Ex4\POO3_Ex1_Ex2_Ex3_Ex4\bin\Debug\POO3_Ex1_Ex2_Ex3_Ex4.exe
+C:\Users\Student\Desktop\POO3_Ex1_Ex2_Ex3_Ex4\POO3_Ex1_Ex2_Ex3_Ex4\bin\Debug\POO3_Ex1_Ex2_Ex3_Ex4.pdb
+C:\Users\Student\Desktop\POO3_Ex1_Ex2_Ex3_Ex4\POO3_Ex1_Ex2_Ex3_Ex4\obj\x86\Debug\POO3_Ex1_Ex2_Ex3_Ex4.exe
+C:\Users\Student\Desktop\POO3_Ex1_Ex2_Ex3_Ex4\POO3_Ex1_Ex2_Ex3_Ex4\obj\x86\Debug\POO3_Ex1_Ex2_Ex3_Ex4.pdb

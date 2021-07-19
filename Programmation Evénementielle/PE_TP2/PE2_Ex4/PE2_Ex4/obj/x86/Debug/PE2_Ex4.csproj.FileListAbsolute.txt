@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\PE2_Ex4\PE2_Ex4\bin\Debug\PE2_Ex4.exe
+C:\Users\Student\Desktop\PE2_Ex4\PE2_Ex4\bin\Debug\PE2_Ex4.pdb
+C:\Users\Student\Desktop\PE2_Ex4\PE2_Ex4\obj\x86\Debug\PE2_Ex4.Form_Conversion.resources
+C:\Users\Student\Desktop\PE2_Ex4\PE2_Ex4\obj\x86\Debug\PE2_Ex4.Properties.Resources.resources
+C:\Users\Student\Desktop\PE2_Ex4\PE2_Ex4\obj\x86\Debug\PE2_Ex4.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\PE2_Ex4\PE2_Ex4\obj\x86\Debug\PE2_Ex4.exe
+C:\Users\Student\Desktop\PE2_Ex4\PE2_Ex4\obj\x86\Debug\PE2_Ex4.pdb

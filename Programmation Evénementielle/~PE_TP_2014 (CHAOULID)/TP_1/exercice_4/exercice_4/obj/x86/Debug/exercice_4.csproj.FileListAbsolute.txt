@@ -1,0 +1,9 @@
+C:\Users\youssef\Desktop\programmation evenementielle\exercice_4\exercice_4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\youssef\Desktop\programmation evenementielle\exercice_4\exercice_4\obj\x86\Debug\exercice_4.Form1.resources
+C:\Users\youssef\Desktop\programmation evenementielle\exercice_4\exercice_4\obj\x86\Debug\exercice_4.Properties.Resources.resources
+C:\Users\youssef\Desktop\programmation evenementielle\exercice_4\exercice_4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\youssef\Desktop\programmation evenementielle\exercice_4\exercice_4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\youssef\Desktop\programmation evenementielle\exercice_4\exercice_4\bin\Debug\exercice_4.exe
+C:\Users\youssef\Desktop\programmation evenementielle\exercice_4\exercice_4\bin\Debug\exercice_4.pdb
+C:\Users\youssef\Desktop\programmation evenementielle\exercice_4\exercice_4\obj\x86\Debug\exercice_4.exe
+C:\Users\youssef\Desktop\programmation evenementielle\exercice_4\exercice_4\obj\x86\Debug\exercice_4.pdb

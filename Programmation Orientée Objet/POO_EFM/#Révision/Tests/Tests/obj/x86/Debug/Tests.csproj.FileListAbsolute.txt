@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\Tests\Tests\bin\Debug\Tests.exe
+C:\Users\Student\Desktop\Tests\Tests\bin\Debug\Tests.pdb
+C:\Users\Student\Desktop\Tests\Tests\obj\x86\Debug\Tests.Form1.resources
+C:\Users\Student\Desktop\Tests\Tests\obj\x86\Debug\Tests.Properties.Resources.resources
+C:\Users\Student\Desktop\Tests\Tests\obj\x86\Debug\Tests.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Tests\Tests\obj\x86\Debug\Tests.exe
+C:\Users\Student\Desktop\Tests\Tests\obj\x86\Debug\Tests.pdb

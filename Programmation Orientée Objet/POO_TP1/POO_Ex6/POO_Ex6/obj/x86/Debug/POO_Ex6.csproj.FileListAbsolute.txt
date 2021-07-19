@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\POO_Ex6\POO_Ex6\bin\Debug\POO_Ex6.exe
+C:\Users\Student\Desktop\POO_Ex6\POO_Ex6\bin\Debug\POO_Ex6.pdb
+C:\Users\Student\Desktop\POO_Ex6\POO_Ex6\obj\x86\Debug\POO_Ex6.exe
+C:\Users\Student\Desktop\POO_Ex6\POO_Ex6\obj\x86\Debug\POO_Ex6.pdb
+C:\Users\Student\Desktop\POO_Ex6\POO_Ex6\obj\x86\Debug\POO_Ex6.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\1. Programmation Orientée Objet (POO - Console C#)\TDs\TD1_POO_Works\POO_Ex6\POO_Ex6\obj\x86\Debug\POO_Ex6.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\1. Programmation Orientée Objet (POO - Console C#)\TDs\TD1_POO_Works\POO_Ex6\POO_Ex6\obj\x86\Debug\POO_Ex6.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\1. Programmation Orientée Objet (POO - Console C#)\TDs\TD1_POO_Works\POO_Ex6\POO_Ex6\bin\Debug\POO_Ex6.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\1. Programmation Orientée Objet (POO - Console C#)\TDs\TD1_POO_Works\POO_Ex6\POO_Ex6\bin\Debug\POO_Ex6.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\1. Programmation Orientée Objet (POO - Console C#)\TDs\TD1_POO_Works\POO_Ex6\POO_Ex6\obj\x86\Debug\POO_Ex6.csprojResolveAssemblyReference.cache

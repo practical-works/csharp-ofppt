@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\GestionFichiers\GestionFichiers\bin\Debug\GestionFichiers.exe
+C:\Users\Student\Desktop\GestionFichiers\GestionFichiers\bin\Debug\GestionFichiers.pdb
+C:\Users\Student\Desktop\GestionFichiers\GestionFichiers\obj\x86\Debug\GestionFichiers.exe
+C:\Users\Student\Desktop\GestionFichiers\GestionFichiers\obj\x86\Debug\GestionFichiers.pdb
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C++ Projects\Tests-C\GestionFichiers\GestionFichiers\obj\x86\Debug\GestionFichiers.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C++ Projects\Tests-C\GestionFichiers\GestionFichiers\obj\x86\Debug\GestionFichiers.pdb

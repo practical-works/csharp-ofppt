@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\POO_Révision\POO_Révision\bin\Debug\POO_Révision.exe
+C:\Users\Student\Desktop\POO_Révision\POO_Révision\bin\Debug\POO_Révision.pdb
+C:\Users\Student\Desktop\POO_Révision\POO_Révision\obj\x86\Debug\POO_Révision.exe
+C:\Users\Student\Desktop\POO_Révision\POO_Révision\obj\x86\Debug\POO_Révision.pdb
+C:\Users\Student\Desktop\POO_Révision\POO_Révision\obj\x86\Debug\POO_Révision.csprojResolveAssemblyReference.cache

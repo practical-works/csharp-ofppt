@@ -1,0 +1,20 @@
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_12\EX_12\bin\Debug\EX_12.exe
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_12\EX_12\bin\Debug\EX_12.pdb
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_12\EX_12\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_12\EX_12\obj\x86\Debug\EX_12.Form1.resources
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_12\EX_12\obj\x86\Debug\EX_12.Properties.Resources.resources
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_12\EX_12\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_12\EX_12\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_12\EX_12\obj\x86\Debug\EX_12.exe
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_12\EX_12\obj\x86\Debug\EX_12.pdb
+J:\reqzer\programmation evenementielle\TP_4\EX_12\EX_12\obj\x86\Debug\EX_12.exe
+J:\reqzer\programmation evenementielle\TP_4\EX_12\EX_12\obj\x86\Debug\EX_12.pdb
+J:\reqzer\programmation evenementielle\TP_4\EX_12\EX_12\bin\Debug\EX_12.exe
+J:\reqzer\programmation evenementielle\TP_4\EX_12\EX_12\bin\Debug\EX_12.pdb
+J:\reqzer\programmation evenementielle\TP_4\EX_12\EX_12\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\reqzer\programmation evenementielle\TP_4\EX_12\EX_12\obj\x86\Debug\EX_12.Form1.resources
+J:\reqzer\programmation evenementielle\TP_4\EX_12\EX_12\obj\x86\Debug\EX_12.Properties.Resources.resources
+J:\reqzer\programmation evenementielle\TP_4\EX_12\EX_12\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\reqzer\programmation evenementielle\TP_4\EX_12\EX_12\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_4\EX_12\EX_12\obj\x86\Debug\EX_12.exe
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_4\EX_12\EX_12\obj\x86\Debug\EX_12.pdb

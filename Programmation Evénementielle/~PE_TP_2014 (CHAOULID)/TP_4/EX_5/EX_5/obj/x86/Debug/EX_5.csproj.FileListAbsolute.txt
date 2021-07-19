@@ -1,0 +1,18 @@
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_5\EX_5\bin\Debug\EX_5.exe
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_5\EX_5\bin\Debug\EX_5.pdb
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_5\EX_5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_5\EX_5\obj\x86\Debug\EX_5.Form1.resources
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_5\EX_5\obj\x86\Debug\EX_5.Properties.Resources.resources
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_5\EX_5\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_5\EX_5\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_5\EX_5\obj\x86\Debug\EX_5.exe
+C:\Users\Youssef BEN KHALA\Desktop\programmation evenementielle\TP_4\EX_5\EX_5\obj\x86\Debug\EX_5.pdb
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_4\EX_5\EX_5\obj\x86\Debug\EX_5.exe
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_4\EX_5\EX_5\obj\x86\Debug\EX_5.pdb
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_4\EX_5\EX_5\bin\Debug\EX_5.exe
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_4\EX_5\EX_5\bin\Debug\EX_5.pdb
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_4\EX_5\EX_5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_4\EX_5\EX_5\obj\x86\Debug\EX_5.Form1.resources
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_4\EX_5\EX_5\obj\x86\Debug\EX_5.Properties.Resources.resources
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_4\EX_5\EX_5\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Youssef\Desktop\programmation evenementielle\TP_4\EX_5\EX_5\obj\x86\Debug\GenerateResource.write.1.tlog

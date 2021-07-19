@@ -1,0 +1,2 @@
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD6_PE_Works\PE6_Ex4 - Fiche Client (ERRORPROVIDER)\Fiche Client (ERRORPROVIDER)\obj\x86\Debug\Fiche Client (ERRORPROVIDER).exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD6_PE_Works\PE6_Ex4 - Fiche Client (ERRORPROVIDER)\Fiche Client (ERRORPROVIDER)\obj\x86\Debug\Fiche Client (ERRORPROVIDER).pdb

@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\PE_Ex14\PE_Ex14\bin\Debug\PE_Ex14.exe
+C:\Users\Student\Desktop\PE_Ex14\PE_Ex14\bin\Debug\PE_Ex14.pdb
+C:\Users\Student\Desktop\PE_Ex14\PE_Ex14\obj\x86\Debug\PE_Ex14.Properties.Resources.resources
+C:\Users\Student\Desktop\PE_Ex14\PE_Ex14\obj\x86\Debug\PE_Ex14.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\PE_Ex14\PE_Ex14\obj\x86\Debug\PE_Ex14.exe
+C:\Users\Student\Desktop\PE_Ex14\PE_Ex14\obj\x86\Debug\PE_Ex14.pdb
+C:\Users\Student\Desktop\PE_Ex14\PE_Ex14\obj\x86\Debug\PE_Ex14.Form_Principale.resources
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\PE_Ex14\PE_Ex14\obj\x86\Debug\PE_Ex14.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\PE_Ex14\PE_Ex14\obj\x86\Debug\PE_Ex14.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\PE_Ex14\PE_Ex14\bin\Debug\PE_Ex14.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\PE_Ex14\PE_Ex14\bin\Debug\PE_Ex14.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\PE_Ex14\PE_Ex14\obj\x86\Debug\PE_Ex14.Form_Principale.resources
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\PE_Ex14\PE_Ex14\obj\x86\Debug\PE_Ex14.Properties.Resources.resources
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD1_PE_Works\PE_Ex14\PE_Ex14\obj\x86\Debug\PE_Ex14.csproj.GenerateResource.Cache

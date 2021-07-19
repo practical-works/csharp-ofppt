@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\Menu Commande\Menu Commande\bin\Debug\Menu Commande.exe
+C:\Users\Student\Desktop\Menu Commande\Menu Commande\bin\Debug\Menu Commande.pdb
+C:\Users\Student\Desktop\Menu Commande\Menu Commande\obj\x86\Debug\Menu_Commande.Form1.resources
+C:\Users\Student\Desktop\Menu Commande\Menu Commande\obj\x86\Debug\Menu_Commande.Properties.Resources.resources
+C:\Users\Student\Desktop\Menu Commande\Menu Commande\obj\x86\Debug\Menu Commande.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Menu Commande\Menu Commande\obj\x86\Debug\Menu Commande.exe
+C:\Users\Student\Desktop\Menu Commande\Menu Commande\obj\x86\Debug\Menu Commande.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD3_PE_Works\PE3_Ex5 - Menu Commande\Menu Commande\obj\x86\Debug\Menu Commande.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD3_PE_Works\PE3_Ex5 - Menu Commande\Menu Commande\obj\x86\Debug\Menu Commande.pdb

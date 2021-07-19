@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\PE5_Ex7 - Séjour\PE5_Ex7 - Séjour\bin\Debug\PE5_Ex7 - Séjour.exe
+C:\Users\Student\Desktop\PE5_Ex7 - Séjour\PE5_Ex7 - Séjour\bin\Debug\PE5_Ex7 - Séjour.pdb
+C:\Users\Student\Desktop\PE5_Ex7 - Séjour\PE5_Ex7 - Séjour\obj\x86\Debug\PE5_Ex7___Séjour.Form1.resources
+C:\Users\Student\Desktop\PE5_Ex7 - Séjour\PE5_Ex7 - Séjour\obj\x86\Debug\PE5_Ex7___Séjour.Properties.Resources.resources
+C:\Users\Student\Desktop\PE5_Ex7 - Séjour\PE5_Ex7 - Séjour\obj\x86\Debug\PE5_Ex7 - Séjour.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\PE5_Ex7 - Séjour\PE5_Ex7 - Séjour\obj\x86\Debug\PE5_Ex7 - Séjour.exe
+C:\Users\Student\Desktop\PE5_Ex7 - Séjour\PE5_Ex7 - Séjour\obj\x86\Debug\PE5_Ex7 - Séjour.pdb
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD5_PE_Works\PE5_Ex7 - Séjour\PE5_Ex7 - Séjour\obj\x86\Debug\PE5_Ex7 - Séjour.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\2. Programmation Événementielle (Visual C#)\TDs\TD5_PE_Works\PE5_Ex7 - Séjour\PE5_Ex7 - Séjour\obj\x86\Debug\PE5_Ex7 - Séjour.pdb

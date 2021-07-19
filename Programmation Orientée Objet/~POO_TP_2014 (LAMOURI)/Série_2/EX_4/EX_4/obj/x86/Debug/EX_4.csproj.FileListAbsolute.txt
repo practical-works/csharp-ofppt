@@ -1,0 +1,12 @@
+C:\Users\Youssef BEN KHALA\Desktop\Programmation orientée objet\Série_2\EX_4\EX_4\bin\Debug\EX_4.exe
+C:\Users\Youssef BEN KHALA\Desktop\Programmation orientée objet\Série_2\EX_4\EX_4\bin\Debug\EX_4.pdb
+C:\Users\Youssef BEN KHALA\Desktop\Programmation orientée objet\Série_2\EX_4\EX_4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Youssef BEN KHALA\Desktop\Programmation orientée objet\Série_2\EX_4\EX_4\obj\x86\Debug\EX_4.exe
+C:\Users\Youssef BEN KHALA\Desktop\Programmation orientée objet\Série_2\EX_4\EX_4\obj\x86\Debug\EX_4.pdb
+F:\Programmation orientée objet\Série_2\EX_4\EX_4\obj\x86\Debug\EX_4.exe
+F:\Programmation orientée objet\Série_2\EX_4\EX_4\obj\x86\Debug\EX_4.pdb
+F:\Programmation orientée objet\Série_2\EX_4\EX_4\bin\Debug\EX_4.exe
+F:\Programmation orientée objet\Série_2\EX_4\EX_4\bin\Debug\EX_4.pdb
+F:\Programmation orientée objet\Série_2\EX_4\EX_4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_2\EX_4\EX_4\obj\x86\Debug\EX_4.exe
+C:\Users\Youssef\Desktop\Programmation orientée objet\Série_2\EX_4\EX_4\obj\x86\Debug\EX_4.pdb

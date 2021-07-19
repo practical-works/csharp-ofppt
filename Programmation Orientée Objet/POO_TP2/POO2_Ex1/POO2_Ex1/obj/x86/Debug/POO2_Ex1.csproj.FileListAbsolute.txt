@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\POO2_Ex1\POO2_Ex1\bin\Debug\POO2_Ex1.exe
+C:\Users\Student\Desktop\POO2_Ex1\POO2_Ex1\bin\Debug\POO2_Ex1.pdb
+C:\Users\Student\Desktop\POO2_Ex1\POO2_Ex1\obj\x86\Debug\POO2_Ex1.exe
+C:\Users\Student\Desktop\POO2_Ex1\POO2_Ex1\obj\x86\Debug\POO2_Ex1.pdb
+C:\Users\Student\Desktop\POO2_Ex1\POO2_Ex1\obj\x86\Debug\POO2_Ex1.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\1. Programmation Orientée Objet (POO - Console C#)\TDs\TD2_POO_Works\POO2_Ex1\POO2_Ex1\obj\x86\Debug\POO2_Ex1.exe
+C:\Users\Student\Documents\SCHOOL\OFPPT\Cours et Exercices\Semestre 2 (TDI)\1. Programmation Orientée Objet (POO - Console C#)\TDs\TD2_POO_Works\POO2_Ex1\POO2_Ex1\obj\x86\Debug\POO2_Ex1.pdb

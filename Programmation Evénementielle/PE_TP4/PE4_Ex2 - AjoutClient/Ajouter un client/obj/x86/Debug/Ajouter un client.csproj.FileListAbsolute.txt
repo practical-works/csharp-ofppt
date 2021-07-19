@@ -1,0 +1,8 @@
+C:\Users\Student\Desktop\Ajouter un client\Ajouter un client\bin\Debug\Ajouter un client.exe
+C:\Users\Student\Desktop\Ajouter un client\Ajouter un client\bin\Debug\Ajouter un client.pdb
+C:\Users\Student\Desktop\Ajouter un client\Ajouter un client\obj\x86\Debug\Ajouter un client.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Ajouter un client\Ajouter un client\obj\x86\Debug\Ajouter_un_client.Properties.Resources.resources
+C:\Users\Student\Desktop\Ajouter un client\Ajouter un client\obj\x86\Debug\Ajouter un client.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Ajouter un client\Ajouter un client\obj\x86\Debug\Ajouter un client.exe
+C:\Users\Student\Desktop\Ajouter un client\Ajouter un client\obj\x86\Debug\Ajouter un client.pdb
+C:\Users\Student\Desktop\Ajouter un client\Ajouter un client\obj\x86\Debug\Ajouter_un_client.Form_main.resources

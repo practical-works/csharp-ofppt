@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\Authentification\Authentification\bin\Debug\Authentification.exe
+C:\Users\Student\Desktop\Authentification\Authentification\bin\Debug\Authentification.pdb
+C:\Users\Student\Desktop\Authentification\Authentification\obj\x86\Debug\Authentification.Form_login.resources
+C:\Users\Student\Desktop\Authentification\Authentification\obj\x86\Debug\Authentification.Properties.Resources.resources
+C:\Users\Student\Desktop\Authentification\Authentification\obj\x86\Debug\Authentification.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Authentification\Authentification\obj\x86\Debug\Authentification.exe
+C:\Users\Student\Desktop\Authentification\Authentification\obj\x86\Debug\Authentification.pdb
+C:\Users\Student\Desktop\Authentification\Authentification\obj\x86\Debug\Authentification.Form_main.resources
+C:\Users\Student\Desktop\Authentification\Authentification\obj\x86\Debug\Authentification.csprojResolveAssemblyReference.cache
